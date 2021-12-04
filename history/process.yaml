@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE04OSPS-SF01B-2B-PHSENA108-streamed-phsen_data_record
 data_stream: CE04OSPS-SF01B-2B-PHSENA108-streamed-phsen_data_record
 end_date: '2021-12-01T21:51:56.451Z'
-last_updated: '2021-12-02T07:39:26.888544'
+last_updated: '2021-12-04T02:51:08.979247Z'
 start_date: '2015-08-03T16:00:00.283Z'
-status: success
+status: pending
